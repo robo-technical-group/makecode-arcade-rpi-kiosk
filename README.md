@@ -1,9 +1,18 @@
 # makecode-arcade-rpi-kiosk
+
 Building a MakeCode Arcade Kiosk with Raspberry Pi devices.
 
 Reference: <https://github.com/TOLDOTECHNIK/Raspberry-Pi-Kiosk-Display-System>
 
 Simplified version:
+
+# Step Zero: Test your hardware
+
+Before starting with the customized install, test your hardware!
+
+Use the full desktop version with the browser that you intend to use.
+
+Run your projects (or some sample ones) in MakeCode Arcade. **Nota bene**: Not all USB joypads work well with browser-based applications.
 
 # Step One: Create Raspberry Pi Disk
 
