@@ -12,7 +12,12 @@ Before starting with the customized install, test your hardware!
 
 Use the full desktop version with the browser that you intend to use.
 
-Run your projects (or some sample ones) in MakeCode Arcade. **Nota bene**: Not all USB joypads work well with browser-based applications.
+Run your projects (or some sample ones) in MakeCode Arcade.
+**Nota bene**: Not all USB game controllers work well on
+the Raspberry Pi.
+
+If you are using USB game controllers, then I
+***strongly suggest*** using a powered USB 2.0 hub.
 
 # Step One: Create Raspberry Pi Disk
 
